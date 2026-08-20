@@ -27,7 +27,7 @@ Topics discussed include:
 - CTF methodology
 - Step-by-step forensic workflow
 
-🎥 **Video Walkthrough**
+**Video Walkthrough**
 
 https://media.pdx.edu/media/t/1_pwxv11hf
 
